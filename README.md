@@ -1,7 +1,7 @@
-### ![Alt Text]([url_to_your_gif.gif](https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif)) Hi there Sumit Kumar Gupta
+### <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>) Hi there Sumit Kumar Gupta
 
   
- Typing for building software 	![Alt Text]([https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif))
+ Typing for building software 	<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
 Passionate Frontend Developer from Gurgaon | India🇮🇳, most of my time I spend solving real-world problems and learning new web technologies.
 🌱 I’m a software engineer;
