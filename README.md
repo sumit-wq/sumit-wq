@@ -1,7 +1,6 @@
-### <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>) Hi there Sumit Kumar Gupta
+### ![](https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif) Hi there Sumit Kumar Gupta
 
-  
- Typing for building software 	<iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+![200](https://github.com/sumit-wq/sumit-wq/assets/79878298/3a54787b-cb10-4d21-9750-6890328cdc17)
 
 Passionate Frontend Developer from Gurgaon | India🇮🇳, most of my time I spend solving real-world problems and learning new web technologies.
 🌱 I’m a software engineer;
