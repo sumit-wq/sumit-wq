@@ -1,14 +1,13 @@
-### Hi there 👋
+### ![Alt Text]([url_to_your_gif.gif](https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif)) Hi there Sumit Kumar Gupta
 
-  Hi, I'm Sumit Kumar Gupta
   
- Typing for building softwares
+ Typing for building software 	![Alt Text]([https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif))
 
 Passionate Frontend Developer from Gurgaon | India🇮🇳, most of my time I spend solving real-world problems and learning new web technologies.
-🌱 I’m software engineer;
+🌱 I’m a software engineer;
 
-💬 Ask me about javascript, React, React Native, NodeJS, ExpressJS I am happy to help;
-    Python & Jenkins comming soon
+💬 Ask me about javascript, React, React Native, NodeJS, or ExpressJS I am happy to help;
+    Python & Jenkins are coming soon
 
 ☕️ Coffee keeps me functioning;
 
