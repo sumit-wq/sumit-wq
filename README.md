@@ -1,6 +1,6 @@
-### ![](https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif = 36x36) Hi there Sumit Kumar Gupta
+### <p align="center"> ![](https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif | width=36 height=36) Hi there Sumit Kumar Gupta </p>
 
-![200](https://github.com/sumit-wq/sumit-wq/assets/79878298/3a54787b-cb10-4d21-9750-6890328cdc17 = 100x100) Typing for building
+![200](https://github.com/sumit-wq/sumit-wq/assets/79878298/3a54787b-cb10-4d21-9750-6890328cdc17 | width=100 height=100) Typing for building
 
 Passionate Frontend Developer from Gurgaon | India🇮🇳, most of my time I spend solving real-world problems and learning new web technologies.
 🌱 I’m a software engineer;
