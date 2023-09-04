@@ -1,4 +1,5 @@
-<h1 align="center"> ### ![36](https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif) Hi there Sumit Kumar Gupta</h1>
+### ![36](https://media.tenor.com/HO7EBVsu04oAAAAi/pikachu-pokemon.gif) 
+<h1 align="center"> Hi there Sumit Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer and mobile developer from India</h3>
 
 - 🔭 I’m currently working on **building an trading platfrom**
