@@ -162,22 +162,6 @@ class SumitKumarGupta:
      └─ Open-source RAG / agent tooling
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kumarsumit925&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarsumit925&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kumarsumit925&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -214,9 +198,3 @@ I'm always happy to discuss:
 - 🏥 **AI in regulated domains** — HIPAA, tax compliance, audit trails
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20impactful%20AI%20roles&fontSize=20&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-</div>
